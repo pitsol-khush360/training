@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Checking Data 123
-=======
-Checking Data 1
->>>>>>> 84bc3924f7ff374836c0e143411e5d524ec7f312
